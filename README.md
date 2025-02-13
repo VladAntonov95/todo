@@ -13,13 +13,13 @@
    Спочатку клонуйте репозиторій на вашу локальну машину:
 
 ```bash
-   git clone https://github.com/ваш-аккаунт/todo-app.git
+   git clone https://github.com/VladAntonov95/todo.git
 ```
 
 2. **Перейдіть в теку проєкту**
 
 ```bash
-  cd todo-app
+  cd todo
 ```
 
 3. **Встановіть залежності**
@@ -96,13 +96,13 @@
    First, clone the repository to your local machine:
 
 ```bash
-   git clone https://github.com/your-account/todo-app.git https://github.com/VladAntonov95/todo.git
+   git clone https://github.com/VladAntonov95/todo.git
 ```
 
 2. **Navigate to the project directory**
 
 ```bash
-  cd todo-app
+  cd todo
 ```
 
 3. **Install dependencies**
