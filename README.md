@@ -120,19 +120,6 @@ This project uses the following technologies:
 - **Axios** — for making HTTP requests.
 
 ## 🚀 App Features
-
-The application fetches the first 10 tasks from "https://jsonplaceholder.typicode.com/todos".
-
-This app provides the following features for managing a todo list:
-
-1. Adding tasks: You can add new tasks to the list by filling in the input and clicking the "Add" button.
-2. Editing tasks: Tasks can be edited if they are not completed.
-3. Marking tasks as completed: Clicking on a task marks it as completed.
-4. Deleting tasks: You can delete any task from the list.
-5. Filtering tasks: Tasks are sorted so that incomplete tasks appear above completed ones.
-6. Editable interface: Tasks that are being edited have the option to save or cancel changes.
-
-🚀 Application Features
 The app fetches the first 10 tasks from JSONPlaceholder, simulating a real task list. Here are the features available in this app for managing the task list:
 
 - **Adding tasks:**
