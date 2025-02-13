@@ -88,7 +88,7 @@
 
   ## Насолоджуйтесь
 
-## <a name="english"></a> 🇬🇧 Ukrainian Version
+## <a name="english"></a> 🇬🇧 English Version
 
 ## 📥 How to Run the Project
 
